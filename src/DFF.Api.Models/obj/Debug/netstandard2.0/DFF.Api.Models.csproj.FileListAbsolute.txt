@@ -1,0 +1,9 @@
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\bin\Debug\netstandard2.0\DFF.Api.Models.deps.json
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\bin\Debug\netstandard2.0\DFF.Api.Models.dll
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\bin\Debug\netstandard2.0\DFF.Api.Models.pdb
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.csprojAssemblyReference.cache
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.csproj.CoreCompileInputs.cache
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.AssemblyInfoInputs.cache
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.AssemblyInfo.cs
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.dll
+D:\C#\DFF\DFF.Api\src\DFF.Api.Models\obj\Debug\netstandard2.0\DFF.Api.Models.pdb
